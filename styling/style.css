@@ -751,12 +751,22 @@ footer .contact-form button.filled-button:hover {
 
 .page-heading {
 	text-align: center;
-	background-image: url(https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1482&q=80);
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
 	padding: 230px 0px 150px 0px;
 	color: #fff;
+}
+
+.connections-section {
+	background-image: url(https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1482&q=80);
+		background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.learnsection {
+	background-image: url(https://images.unsplash.com/photo-1493673272479-a20888bcee10?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80);
+		background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .page-heading h1 {
