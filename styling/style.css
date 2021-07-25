@@ -752,7 +752,7 @@ footer .contact-form button.filled-button:hover {
 .page-heading {
 	text-align: center;
 	padding: 230px 0px 150px 0px;
-	color: #fff;
+
 }
 
 .connections-section {
@@ -760,6 +760,7 @@ footer .contact-form button.filled-button:hover {
 		background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
+		color: #fff;
 }
 
 .learnsection {
@@ -767,6 +768,15 @@ footer .contact-form button.filled-button:hover {
 		background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
+		color: #fff;
+}
+
+.whysection {
+	background-image: url(https://images.unsplash.com/photo-1517405404692-6eddc8fb975f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80);
+		background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+		color: #fff;
 }
 
 .page-heading h1 {
